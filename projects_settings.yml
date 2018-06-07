@@ -6,4 +6,4 @@ projects:
     website: progetto.ministerodocumentazione.gov.it
     documents:
       - title: Anagrafe
-      repository: anagrafe-docs
+        repository: anagrafe-docs

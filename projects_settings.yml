@@ -11,7 +11,7 @@ projects:
     short-name: Piano triennale
     description: |
       Test del documento del Piano triennale con il 
-    nuovo tema.
+      nuovo tema.
     documents:
       - title: Piano triennale ICT
         repository: pianotriennale-ict-doc

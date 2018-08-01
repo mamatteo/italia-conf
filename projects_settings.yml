@@ -5,13 +5,11 @@ projects:
       Un progetto che riguarda la popolazione del Comune.
     website: progetto.ministerodocumentazione.gov.it
     documents:
-      - title: Anagrafe
-        repository: anagrafe-docs
+      - anagrafe-docs
   - title: Test Piano triennale ICT
     short-name: Piano triennale
     description: |
       Test del documento del Piano triennale con il 
       nuovo tema.
     documents:
-      - title: Piano triennale ICT
-        repository: nomedocumento-docs
+      - nomedocumento-docs

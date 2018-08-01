@@ -2,16 +2,13 @@ projects:
   - 
     name: Popolazione del Comune
     short_name: Popolazione
-    description: |
-      Un progetto che riguarda la popolazione del Comune.
+    description: "Un progetto che riguarda la popolazione del Comune."
     website: progetto.ministerodocumentazione.gov.it
     documents:
       - anagrafe-docs
   - 
     name: Test Piano triennale ICT
     short_name: Piano triennale
-    description: |
-      Test del documento del Piano triennale con il 
-      nuovo tema.
+    description: "Test del documento del Piano triennale con il nuovo tema."
     documents:
       - nomedocumento-docs

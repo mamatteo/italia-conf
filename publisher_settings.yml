@@ -4,5 +4,4 @@ publisher:
   description: |
     Una città inventata nelle colline del Piovasco.
   github_organization_url: https://github.com/citta-metropolitana-amba-raba
-  assets:
-    logo: assets/images/logo.svg
+  logo: assets/images/logo.svg

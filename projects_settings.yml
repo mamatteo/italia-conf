@@ -7,3 +7,5 @@ projects:
     documents:
       - title: Anagrafe
         repository: anagrafe-docs
+      - title: Altra anagrafe
+        repository: altra-anagrafe-docs

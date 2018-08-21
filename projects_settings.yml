@@ -1,11 +1,14 @@
 projects:
-  - title: Popolazione del Comune
-    short-name: Popolazione
-    description: |
-      Un progetto che riguarda la popolazione del Comune.
-    website: progetto.ministerodocumentazione.gov.it
+  - 
+    name: Popolazione del Comune
+    short_name: Popolazione
+    description: "Un progetto che riguarda la popolazione del Comune."
     documents:
-      - title: Anagrafe
-        repository: anagrafe-docs
-      - title: Altra anagrafe
-        repository: altra-anagrafe-docs
+      - anagrafe-docs
+      - altra-anagrafe-docs
+  - 
+    name: Test Piano triennale ICT
+    short_name: Piano triennale
+    description: "Test del documento del Piano triennale con il nuovo tema."
+    documents:
+      - nomedocumento-docs

@@ -1,7 +1,6 @@
 publisher:
-  name: Città metropolitana di Amba Rabà
-  short-name: Amba Rabà
-  description: |
-    Una città inventata nelle colline del Piovasco.
+  name: "Città metropolitana di Amba Rabà"
+  short-name: "Amba Rabà"
+  description: "Una città inventata nelle colline del Piovasco."
   github_organization_url: https://github.com/citta-metropolitana-amba-raba
   logo: assets/images/logo-temp.jpg

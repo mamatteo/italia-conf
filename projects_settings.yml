@@ -12,3 +12,8 @@ projects:
     description: "Test del documento del Piano triennale con il nuovo tema."
     documents:
       - nomedocumento-docs
+  - 
+    name: Test guida linguaggio
+    description: "Test della guida al linguaggio"
+    documents:
+      - writing-toolkit

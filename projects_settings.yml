@@ -13,7 +13,7 @@ projects:
     documents:
       - nomedocumento-docs
   - 
-    name: Test guida linguaggio
+    name: Test writing 
     description: "Test della guida al linguaggio"
     documents:
       - writing-toolkit

@@ -13,6 +13,11 @@ projects:
     documents:
       - nomedocumento-docs
   - 
+    name: Test protocollo
+    description: "Protocollo d'intesa"
+    documents:
+      - protocollo
+  - 
     name: Test writing 
     description: "Test della guida al linguaggio"
     documents:

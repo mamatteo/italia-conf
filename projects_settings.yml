@@ -22,3 +22,8 @@ projects:
     description: "Test della guida al linguaggio"
     documents:
       - writing-toolkit-test
+  - 
+    name: Test LG Design 
+    description: "Test delle Linee guida di design"
+    documents:
+      - design

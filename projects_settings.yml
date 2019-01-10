@@ -27,3 +27,8 @@ projects:
     description: "Test delle Linee guida di design"
     documents:
       - design
+  - 
+    name: Test Comuni 
+    description: "Test siti dei comuni"
+    documents:
+      - comuni

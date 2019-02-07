@@ -32,3 +32,10 @@ projects:
     description: "Test siti dei comuni"
     documents:
       - comuni
+  - 
+    name: Test LG
+    description: "Test linee guida wifi"
+    documents:
+      - wifi
+      
+      

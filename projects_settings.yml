@@ -33,9 +33,7 @@ projects:
     documents:
       - comuni
   - 
-    name: Test LG
+    name: Test Wifi
     description: "Test linee guida wifi"
     documents:
       - lg-wifi
-      
-      

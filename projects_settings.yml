@@ -37,3 +37,9 @@ projects:
     description: "Test linee guida wifi"
     documents:
       - lg-wifi
+      
+   -
+   name: Test Cloud Enable Program
+    description: "Cloud Enable Program"
+    documents:
+      - cloud-enable-program-docs
